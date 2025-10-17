@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Kopeerige valitud tekst koheselt erinevates vormingutes. Paremklõpsake, et kopeerida väiketähtedega, pealkirja vormingus või SUURTÄHTEDEGA. Saadaval 36 keeles.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "kopeeri väiketähtedega",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Kopeeri Pealkirja Vormingus",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "KOPEERI SUURTÄHTEDEGA",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

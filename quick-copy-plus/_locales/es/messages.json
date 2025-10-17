@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "Quick Copy Plus",
+    "description": "The name of the extension."
+  },
+  "extDesc": {
+    "message": "Copia instantáneamente el texto seleccionado en diferentes formatos. Haz clic derecho para copiar como minúsculas, Formato De Título o MAYÚSCULAS. Disponible en 36 idiomas.",
+    "description": "La descripción de la extensión."
+  },
+  "parentTitle": {
+    "message": "Quick Copy Plus",
+    "description": "The parent context menu item."
+  },
+  "copyLowercase": {
+    "message": "copiar en minúsculas",
+    "description": "Menú contextual para copiar en minúsculas."
+  },
+  "copyTitlecase": {
+    "message": "Copiar Como Formato De Título",
+    "description": "Menú contextual para copiar como título."
+  },
+  "copyUppercase": {
+    "message": "COPIAR EN MAYÚSCULAS",
+    "description": "Menú contextual para copiar en mayúsculas."
+  }
+}

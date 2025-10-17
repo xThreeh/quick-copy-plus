@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Kopieren Sie ausgewählten Text sofort in verschiedenen Formaten. Klicken Sie mit der rechten Maustaste, um ihn in Kleinbuchstaben, als Titel oder in GROSSBUCHSTABEN zu kopieren. Verfügbar in 36 Sprachen.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "in kleinbuchstaben kopieren",
+        "description": "Kontextmenü zum Kopieren in Kleinbuchstaben."
+    },
+    "copyTitlecase": {
+        "message": "Als Titel Kopieren",
+        "description": "Kontextmenü zum Kopieren als Titel."
+    },
+    "copyUppercase": {
+        "message": "IN GROSSBUCHSTABEN KOPIEREN",
+        "description": "Kontextmenü zum Kopieren in Großbuchstaben."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Copiați instantaneu textul selectat în diferite formate. Faceți clic dreapta pentru a copia cu litere mici, cu majuscule de titlu sau cu MAJUSCULE. Disponibil în 36 de limbi.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "copiere cu litere mici",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Copiere Ca Majuscule De Titlu",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "COPIERE CU MAJUSCULE",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

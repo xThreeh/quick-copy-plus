@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Kopieer onmiddellik geselekteerde teks in verskillende formate. Regskliek om te kopieer as kleinletters, Titelsaak, of HOOFLETTERS. Beskikbaar in 36 tale.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "kopieer in kleinletters",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Kopieer As Titelsaak",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "KOPIEER IN HOOFLETTERS",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

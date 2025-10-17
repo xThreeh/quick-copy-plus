@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Kopioi valittu teksti välittömästi eri muodoissa. Napsauta hiiren kakkospainikkeella kopioidaksesi pienillä kirjaimilla, otsikkokirjaimilla tai SUURAAKKOSILLA. Saatavilla 36 kielellä.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "kopioi pienillä kirjaimilla",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Kopioi Otsikkokirjaimilla",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "KOPIOI SUURAAKKOSILLA",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

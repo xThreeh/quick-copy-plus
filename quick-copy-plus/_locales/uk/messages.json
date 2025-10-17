@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Миттєво копіюйте вибраний текст у різних форматах. Клацніть правою кнопкою миші, щоб скопіювати малими літерами, у форматі заголовка або ВЕЛИКИМИ ЛІТЕРАМИ. Доступно 36 мовами.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "копіювати малими літерами",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Копіювати Як Заголовок",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "КОПІЮВАТИ ВЕЛИКИМИ ЛІТЕРАМИ",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

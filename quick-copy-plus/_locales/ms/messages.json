@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Salin teks terpilih serta-merta dalam format yang berbeza. Klik kanan untuk menyalin sebagai huruf kecil, Huruf Besar Tajuk, atau HURUF BESAR. Tersedia dalam 36 bahasa.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "salin dalam huruf kecil",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Salin Sebagai Huruf Besar Tajuk",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "SALIN DALAM HURUF BESAR",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

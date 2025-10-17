@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Odmah kopirajte odabrani tekst u različitim formatima. Desnom tipkom miša kopirajte malim slovima, velikim slovima na početku riječi ili VELIKIM SLOVIMA. Dostupno na 36 jezika.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "kopiraj malim slovima",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Kopiraj Kao Velika Početna Slova",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "KOPIRAJ VELIKIM SLOVIMA",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Agad na kopyahin ang napiling teksto sa iba't ibang mga format. Mag-right-click upang kopyahin bilang maliliit na titik, Title Case, o MALALAKING TITIK. Magagamit sa 36 na wika.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "kopyahin sa maliliit na titik",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Kopyahin Bilang Title Case",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "KOPYAHIN SA MALALAKING TITIK",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

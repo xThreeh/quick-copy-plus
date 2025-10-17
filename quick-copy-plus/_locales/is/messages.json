@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Afritaðu valinn texta samstundis á mismunandi sniðum. Hægrismelltu til að afrita með lágstöfum, sem titil eða með HÁSTÖFUM. Fáanlegt á 36 tungumálum.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "afrita með lágstöfum",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Afrita Sem Titil",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "AFRITA MEÐ HÁSTÖFUM",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

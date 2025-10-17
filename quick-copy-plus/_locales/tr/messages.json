@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Seçili metni anında farklı formatlarda kopyalayın. Küçük harf, başlık durumu veya BÜYÜK HARF olarak kopyalamak için sağ tıklayın. 36 dilde mevcuttur.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "küçük harfle kopyala",
+        "description": "Küçük harfle kopyalamak için bağlam menüsü öğesi."
+    },
+    "copyTitlecase": {
+        "message": "Başlık Olarak Kopyala",
+        "description": "Başlık olarak kopyalamak için bağlam menüsü öğesi."
+    },
+    "copyUppercase": {
+        "message": "BÜYÜK HARFLE KOPYALA",
+        "description": "Büyük harfle kopyalamak için bağlam menüsü öğesi."
+    }
+}

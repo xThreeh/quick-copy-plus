@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Okamžite skopírujte vybraný text v rôznych formátoch. Kliknite pravým tlačidlom myši pre kopírovanie malými písmenami, veľkými písmenami na začiatku slov alebo VEĽKÝMI PÍSMENAMI. K dispozícii v 36 jazykoch.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "kopírovať malými písmenami",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Kopírovať Ako Veľké Písmená Na Začiatku Slov",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "KOPÍROVAŤ VEĽKÝMI PÍSMENAMI",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

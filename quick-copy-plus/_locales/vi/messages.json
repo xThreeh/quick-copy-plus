@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Sao chép văn bản đã chọn ngay lập tức ở các định dạng khác nhau. Nhấp chuột phải để sao chép dưới dạng chữ thường, chữ hoa đầu dòng hoặc CHỮ HOA. Có sẵn bằng 36 ngôn ngữ.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "sao chép ở dạng chữ thường",
+        "description": "Mục menu ngữ cảnh để sao chép ở dạng chữ thường."
+    },
+    "copyTitlecase": {
+        "message": "Sao Chép Dưới Dạng Tiêu Đề",
+        "description": "Mục menu ngữ cảnh để sao chép dưới dạng tiêu đề."
+    },
+    "copyUppercase": {
+        "message": "SAO CHÉP Ở DẠNG CHỮ HOA",
+        "description": "Mục menu ngữ cảnh để sao chép ở dạng chữ hoa."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Kopjoni menjëherë tekstin e zgjedhur në formate të ndryshme. Klikoni me të djathtën për të kopjuar me shkronja të vogla, me shkronja të mëdha si titull, ose me SHKRONJA TË MËDHA. E disponueshme në 36 gjuhë.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "kopjo me shkronja të vogla",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Kopjo Si Titull",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "KOPJO ME SHKRONJA TË MËDHA",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

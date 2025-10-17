@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Kopier øjeblikkeligt markeret tekst i forskellige formater. Højreklik for at kopiere som små bogstaver, titelformat eller STORE BOGSTAVER. Tilgængelig på 36 sprog.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "kopier med små bogstaver",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Kopier Som Titelformat",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "KOPIER MED STORE BOGSTAVER",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Kopieer geselecteerde tekst onmiddellijk in verschillende formaten. Klik met de rechtermuisknop om te kopiëren in kleine letters, als titel, of in HOOFDLETTERS. Beschikbaar in 36 talen.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "kopiëren in kleine letters",
+        "description": "Contextmenu-item voor kopiëren in kleine letters."
+    },
+    "copyTitlecase": {
+        "message": "Kopiëren Als Titel",
+        "description": "Contextmenu-item voor kopiëren als titel."
+    },
+    "copyUppercase": {
+        "message": "KOPIËREN IN HOOFDLETTERS",
+        "description": "Contextmenu-item voor kopiëren in hoofdletters."
+    }
+}

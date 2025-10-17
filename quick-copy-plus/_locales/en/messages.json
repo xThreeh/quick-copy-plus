@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "Quick Copy Plus",
+    "description": "The name of the extension."
+  },
+  "extDesc": {
+    "message": "Instantly copy selected text in different formats. Right-click to copy as lowercase, Title Case, or UPPERCASE. Available in 36 languages.",
+    "description": "The description of the extension."
+  },
+  "parentTitle": {
+    "message": "Quick Copy Plus",
+    "description": "The parent context menu item."
+  },
+  "copyLowercase": {
+    "message": "copy in lowercase",
+    "description": "Context menu item for copying in lowercase."
+  },
+  "copyTitlecase": {
+    "message": "Copy As Title Case",
+    "description": "Context menu item for copying as title case."
+  },
+  "copyUppercase": {
+    "message": "COPY IN UPPERCASE",
+    "description": "Context menu item for copying in uppercase."
+  }
+}

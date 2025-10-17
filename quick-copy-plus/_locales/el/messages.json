@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Αντιγράψτε άμεσα το επιλεγμένο κείμενο σε διάφορες μορφές. Κάντε δεξί κλικ για αντιγραφή με πεζά γράμματα, σε μορφή τίτλου ή με ΚΕΦΑΛΑΙΑ ΓΡΑΜΜΑΤΑ. Διαθέσιμο σε 36 γλώσσες.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "αντιγραφή με πεζά γράμματα",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Αντιγραφή Ως Μορφή Τίτλου",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "ΑΝΤΙΓΡΑΦΗ ΜΕ ΚΕΦΑΛΑΙΑ ΓΡΑΜΜΑΤΑ",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

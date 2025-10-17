@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Copïwch y testun a ddewiswyd ar unwaith mewn gwahanol fformatau. De-gliciwch i gopïo fel llythrennau bach, Achos Teitl, neu PRIFLYTHRENNAU. Ar gael mewn 36 o ieithoedd.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "copïo mewn llythrennau bach",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Copïo Fel Achos Teitl",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "COPIÏO MEWN PRIFLYTHRENNAU",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Azonnal másolja a kiválasztott szöveget különböző formátumokban. Kattintson a jobb gombbal a kisbetűs, a címbetűs vagy a NAGYBETŰS másoláshoz. 36 nyelven érhető el.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "másolás kisbetűvel",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Másolás Címbetűvel",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "MÁSOLÁS NAGYBETŰVEL",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

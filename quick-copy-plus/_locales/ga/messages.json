@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Cóipeáil an téacs roghnaithe láithreach i bhformáidí éagsúla. Deaschliceáil chun cóipeáil mar chás íochtair, Cás Teidil, nó CÁS UASAL. Ar fáil i 36 theanga.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "cóipeáil i gcás íochtair",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Cóipeáil Mar Chás Teidil",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "CÓIPEÁIL I GCÁS UASAL",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

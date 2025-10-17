@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Незабавно копирайте избрания текст в различни формати. Щракнете с десния бутон, за да копирате с малки букви, като заглавие или с ГЛАВНИ БУКВИ. Предлага се на 36 езика.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "копиране с малки букви",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Копиране Като Заглавие",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "КОПИРАНЕ С ГЛАВНИ БУКВИ",
+        "description": "Context menu item for copying in uppercase."
+    }
+}

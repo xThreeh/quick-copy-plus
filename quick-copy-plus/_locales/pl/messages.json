@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Błyskawicznie kopiuj zaznaczony tekst w różnych formatach. Kliknij prawym przyciskiem myszy, aby skopiować jako małe litery, wielkie litery tytułu lub WIELKIE LITERY. Dostępne w 36 językach.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "kopiuj małymi literami",
+        "description": "Element menu kontekstowego do kopiowania małymi literami."
+    },
+    "copyTitlecase": {
+        "message": "Kopiuj Jako Tytuł",
+        "description": "Element menu kontekstowego do kopiowania jako tytuł."
+    },
+    "copyUppercase": {
+        "message": "KOPIUJ WIELKIMI LITERAMI",
+        "description": "Element menu kontekstowego do kopiowania wielkimi literami."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Мгновенно копируйте выделенный текст в различных форматах. Щелкните правой кнопкой мыши, чтобы скопировать в нижнем регистре, в формате заголовка или в ВЕРХНЕМ РЕГИСТРЕ. Доступно на 36 языках.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "копировать в нижнем регистре",
+        "description": "Контекстное меню для копирования в нижнем регистре."
+    },
+    "copyTitlecase": {
+        "message": "Копировать Как Заголовок",
+        "description": "Контекстное меню для копирования как заголовок."
+    },
+    "copyUppercase": {
+        "message": "КОПИРОВАТЬ В ВЕРХНЕМ РЕГИСТРЕ",
+        "description": "Контекстное меню для копирования в верхнем регистре."
+    }
+}

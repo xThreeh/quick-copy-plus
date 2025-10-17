@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Kopiera omedelbart markerad text i olika format. Högerklicka för att kopiera som gemener, rubrikformat eller VERSALER. Tillgänglig på 36 språk.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "kopiera med gemener",
+        "description": "Snabbmenyalternativ för att kopiera med gemener."
+    },
+    "copyTitlecase": {
+        "message": "Kopiera Som Rubrik",
+        "description": "Snabbmenyalternativ för att kopiera som rubrik."
+    },
+    "copyUppercase": {
+        "message": "KOPIERA MED VERSALER",
+        "description": "Snabbmenyalternativ för att kopiera med versaler."
+    }
+}

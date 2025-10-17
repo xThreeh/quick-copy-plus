@@ -1,0 +1,26 @@
+{
+    "extName": {
+        "message": "Quick Copy Plus",
+        "description": "The name of the extension."
+    },
+    "extDesc": {
+        "message": "Nekavējoties kopējiet atlasīto tekstu dažādos formātos. Ar peles labo pogu noklikšķiniet, lai kopētu ar mazajiem burtiem, virsraksta burtiem vai LIELAJIEM BURTIEM. Pieejams 36 valodās.",
+        "description": "The description of the extension."
+    },
+    "parentTitle": {
+        "message": "Quick Copy Plus",
+        "description": "The parent context menu item."
+    },
+    "copyLowercase": {
+        "message": "kopēt ar mazajiem burtiem",
+        "description": "Context menu item for copying in lowercase."
+    },
+    "copyTitlecase": {
+        "message": "Kopēt Kā Virsraksta Burtus",
+        "description": "Context menu item for copying as title case."
+    },
+    "copyUppercase": {
+        "message": "KOPĒT AR LIELAJIEM BURTIEM",
+        "description": "Context menu item for copying in uppercase."
+    }
+}
