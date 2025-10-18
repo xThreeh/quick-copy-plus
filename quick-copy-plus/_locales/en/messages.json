@@ -4,7 +4,7 @@
     "description": "The name of the extension."
   },
   "extDesc": {
-    "message": "Instantly copy selected text in different formats. Right-click to copy as lowercase, Title Case, or UPPERCASE. Available in 36 languages.",
+    "message": "Quickly copy selected text in various formats. Right-click to copy as lowercase, Title Case, or UPPERCASE.",
     "description": "The description of the extension."
   },
   "parentTitle": {

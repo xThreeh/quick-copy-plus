@@ -4,7 +4,7 @@
     "description": "The name of the extension."
   },
   "extDesc": {
-    "message": "Copia instantáneamente el texto seleccionado en diferentes formatos. Haz clic derecho para copiar como minúsculas, Formato De Título o MAYÚSCULAS. Disponible en 36 idiomas.",
+    "message": "Copia rápidamente texto seleccionado en varios formatos. Haz clic derecho para copiar en minúsculas, Título o MAYÚSCULAS.",
     "description": "La descripción de la extensión."
   },
   "parentTitle": {
